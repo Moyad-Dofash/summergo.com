@@ -52,5 +52,5 @@ header {background-color:black; width: auto; height:auto;
   .drropdown:hover .dropbtn {background-color: #3e8e41;} 
 .h2-nav {text-decoration:none;}
 
-.img-intro {display: inline; width: max-content; }
-.photos-intro {width:500px; height: 700px; }
+.img-intro {width: max-content; }
+.photos-intro {width:max-content; height:auto; }
