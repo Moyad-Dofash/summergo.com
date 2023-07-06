@@ -54,4 +54,4 @@ header {background-color:black; width: auto; height:auto;
 .h2-nav {text-decoration:none;}
 
 .img-intro {width: max-content; }
-.photos-intro {width:max-content; height:auto; }
+.photos-intro {width:max-content; height:auto; border:black;  }
