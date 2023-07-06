@@ -1,7 +1,7 @@
 body{padding: 0px; margin: 0px}
 
 header {background-color:black; width: auto; height:auto;
-        border:solid black; color:whitesmoke; }
+        border:solid black; color:whitesmoke; width: auto; }
         .navbar-menu {display: inline; height: auto;}
 .navbar-content {width: max-content;}
 
@@ -11,7 +11,7 @@ header {background-color:black; width: auto; height:auto;
  .navbar-li { text-decoration: none; padding: 20px; margin-right: 40px; margin-left:40px ; margin-top:15px ; margin-bottom: 15spx; 
               border-radius:12px; border: solid white;
               background-color:black;color:white}
-
+.navbar-menu {width: auto; }
  .navbar-li a {color: white;}
 
 .navbar-content { padding: 20px; display: flex ;  text-align: center; align-items: center;}
@@ -44,8 +44,6 @@ header {background-color:black; width: auto; height:auto;
   padding: 12px 16px;
   text-decoration: none;
  display: block;}
- header {margin-bottom: 12px;}
- 
   .dropdown-content a:hover {background-color: #ddd;}
   
   .dropdown-menu:hover .dropdown-content {display: block;}
