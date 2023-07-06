@@ -4,7 +4,7 @@ header {background-color:black; width: auto; height:auto;
         border:solid black; color:whitesmoke; }
         .navbar-menu {display: inline; height: auto;}
 
- .navbar-li:hover {; background: rgb(255, 255, 255);border-color:black ; 
+ .navbar-li:hover {background: rgb(255, 255, 255);border-color:black ; 
                     color: black; padding:20px}
  
  .navbar-li { text-decoration: none; padding: 20px; margin-right: 40px; margin-left:40px ; margin-top:15px ; margin-bottom: 15spx; 
@@ -37,7 +37,7 @@ header {background-color:black; width: auto; height:auto;
    min-width: 160px;
    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
- border: solid powderblue;}
+ border: solid rgb(230, 230, 230);}
  
  .dropdown-content a {
   color: black;
