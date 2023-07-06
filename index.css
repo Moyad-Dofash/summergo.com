@@ -53,5 +53,5 @@ header {background-color:black; width: auto; height:auto;
   .drropdown:hover .dropbtn {background-color: #677067;} 
 .h2-nav {text-decoration:none;}
 
-.img-intro {width: max-content; background-color: #3e8e41; }
-.photos-intro {width:max-content; height:auto; border:black; background-color: aqua;  }
+.img-intro {width: auto; background-color: #3e8e41; }
+.photos-intro {width:auto; height:auto; border:black; background-color: aqua;  }
