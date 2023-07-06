@@ -3,6 +3,7 @@ body{padding: 0px; margin: 0px}
 header {background-color:black; width: auto; height:auto;
         border:solid black; color:whitesmoke; }
         .navbar-menu {display: inline; height: auto;}
+.navbar-content {width: max-content;}
 
  .navbar-li:hover {background: rgb(255, 255, 255);border-color:black ; 
                     color: black; padding:20px}
